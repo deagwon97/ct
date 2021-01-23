@@ -1,0 +1,8 @@
+/detect_abdomen/data/
+/detect_abdomen/notebook/models/
+/segment_abdomen/data/
+/segment_abdomen/notebook/train/models/
+/wandb/
+*.png
+*.pth
+*.dcm
